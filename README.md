@@ -34,7 +34,7 @@ Welcome to the **Cortex Discord Bot Base**! This base is designed to provide a s
    ```
 
 3. Rename the `example-config.json` to `config.json`:
-   ```env
+   ```json
    {
        "token": "",
        "id": "",
